@@ -1,0 +1,26 @@
+{
+    "users": [
+      {
+        "id": "f9db",
+        "email": "13232@2222222",
+        "fullname": "nghĩa22222222",
+        "password": "12222223124125125",
+        "birthday": "2024-08-18",
+        "PhoneNumber": "55555555521512123",
+        "Gender": "Nam",
+        "DateRegister": "2024-08-03",
+        "role": "user"
+      },
+      {
+        "id": "c947",
+        "email": "a@gmail.com",
+        "fullname": "nghĩa",
+        "password": "123456",
+        "birthday": "2024-08-04",
+        "PhoneNumber": "2222222",
+        "Gender": "Nam",
+        "DateRegister": "2024-08-03",
+        "role": "admin"
+      }
+    ]
+  }
